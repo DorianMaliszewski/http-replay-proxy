@@ -1,7 +1,5 @@
 # http-replay-proxy: Record and replay your calls (ACTIVE DEVELOPMENT)
 
-My first serious project in rust for the dev community. :D
-
 An http proxy made with rust to record and replay your calls. It can help you for testing your apps. 
 
 Using : 
